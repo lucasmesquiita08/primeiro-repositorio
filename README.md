@@ -1,2 +1,3 @@
-# primeiro repositorio
- meu primeiro repositorio
+# meu primeiro repositorio
+ estou aprendendo e esse será meu primeiro repositorio
+ 
