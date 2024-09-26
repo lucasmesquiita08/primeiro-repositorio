@@ -36,7 +36,7 @@ __Colocando uma imagem__
 ![imagem de um leão](https://github.com/user-attachments/assets/1930717f-d80d-46e6-b29e-29400b5127e2)
 
 __Colocando link__
-[Acesse meu Github] (https://lucasmesquiita08.github.io)
+[Acesse meu Github] (https://github.com/lucasmesquiita08)
 
 ### Criando Tabelas
 Num | Nome | Nota
