@@ -17,24 +17,150 @@
             <p>Estou me dedicando e espero que eu consiga ser <strong>programador</strong> algum dia.</p>
             <p>Irei fazer um <strong>mini quiz</strong> de perguntas e respostas para vocês</p>
         </section>
+        <hr>
+        <!--Pergunta 1: Múltipla escolha-->
         <section>
             <h2>Mini Quiz</h2>
-            <p><strong>Pergunta 1:</strong>Qual linguagem é usada para estruturar páginas web?</p>
+            <p><strong>Pergunta 1: Qual linguagem é usada para estruturar páginas web?</strong></p>
             <form>
                 <input type="radio" value="Python" id="p1a"
                 name="pergunta1">
                 <label for="p1a">Pytohn</label><br>
                 <input type="radio" value="HTML" id="p1b"
                 name="pergunta1">
-                <label for="p1a">HTML</label><br>
-                <input type="radio" value="JavaScript" id="p1a"
+                <label for="p1b">HTML</label><br>
+                <input type="radio" value="JavaScript" id="p1c"
                 name="pergunta1">
-                <label for="p1a">JavaScript</label><br>
-                <input type="radio" value="Ruby" id="p1a"
+                <label for="p1c">JavaScript</label><br>
+                <input type="radio" value="Ruby" id="p1d"
                 name="pergunta1">
-                <label for="p1a">Ruby</label><br>
+                <label for="p1d">Ruby</label><br>
                 
             </form>
+        </section>
+        <hr>
+        <!--Pergunta 2: Texto-->
+        <section>
+            <p><strong>Pergunta 2: Na URL https://www.google.com o trecho "google.com" é o</strong> </p>
+            <form>
+            <input type="text" id="p2" name="pergunta2" placeholder="Digite sua resposta..."> 
+            </form>
+        </section>
+        <hr>
+        <!--Pergunta 3: Senha-->
+        <section>
+            <p><strong>Pergunta 3: Escreva um exemplo de senha forte</strong></p>
+            <form>
+                <input type="password" id="p3" name="pergunta3" placeholder="Digite uma senha"> 
+            </form>
+        </section>
+        <hr>
+        <!--Pergunta 4: Data-->
+        <section>
+            <p><strong>Pergunta 4: Em que ano HTML lançou sua primeira versão</strong></p>
+            <form>
+                <input type="date" id="p4" name="pergunta4">
+            </form>
+        </section>
+        <hr>
+        <!--Pergunta 5: Seleção Múltipla-->
+        <section>
+            <p><strong>Pergunta 5: Quais dessas tecnologias são consideradas linguagens de programação</strong></p>
+            <form>
+                <input type="checkbox" id="p5" name="pergunta5" value="JavaScript"><label for="p5a">JavaScript</label>
+
+                <input type="checkbox" id="p5" name="pergunta5" value="HTML"><label for="p5b">HTML</label>
+
+                <input type="checkbox" id="p5" name="pergunta5" value="Java"><label for="p5c">Java</label>
+
+                <input type="checkbox" id="p5" name="pergunta5" value="CSS"><label for="p5d">CSS</label>
+            </form>
+        </section>
+        <hr>
+        <!--Pergunta 6: Upload de arquivo-->
+        <section>
+            <p><strong>Pergunta 6: Faça o upload de um arquivo contendo código HTML</strong></p>
+            <form>
+                <input type="file" id="p6" name="pergunta6">
+            </form>
+        </section>
+        <hr>
+        <!--Pergunta 7: Menu suspenso-->
+        <section>
+            <p><strong>Pergunta 7: Selecione o attributo do input que define o seu tipo</strong></p>
+            <form>
+                <select name="pergunta7" id="p7">
+                    <option value="id">id</option>
+                    <option value="type">type</option>
+                    <option value="placeholder">placeholder</option>
+                </select>
+            </form>
+        </section>
+        <hr>
+        <!--Pergunta 8: Imagem-->
+        <section>
+            <p><strong>Pergunta 8: Qual linguagem de programção é representada pelo logotipo abaixo?</strong></p>
+            <figure>
+            <img src="/assets/java.png" alt="logotipo de uma linguagem de programação"><br>
+<figcaption>Figura 1: Logotipo de uma linguagem de programação</figcaption>
+        </figure>
+            <input type="text" id="p8" name="pergunta8" placeholder="Digite sua resposta">
+        </section>
+        <hr>
+        <!--Tabela de Pontuação-->
+         <section>
+            <p><strong>Tabela de Pontuação</strong></p>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Pontuação</th>
+                        <th>Avaliação</th>
+                    </tr>
+
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>0-2</td>
+                        <td>Não desista! Cada tentava é um aprendizado</td>
+                    </tr>
+                    <tr>
+                        <td>3-4</td>
+                        <td>Você ainda precisa melhorar</td>
+                    </tr>
+                    <tr>
+                        <td>5-7</td>
+                        <td>Bom! Seu conhecimento está satisfatório</td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td>Seu conhecimento está muito bom</td>
+                    </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">Boa sorte na próxima! Continue estudando programação</td>
+                </tr>
+            </tfoot>
+            </table>
+
+        </section>
+        <hr>
+        <!--Lista de Respostas-->
+        <section>
+            <p><strong>Verifique suas respostas</strong></p>
+            <details>
+                <summary>Clique aqui para ver as respostas</summary>
+            <ol>
+                <li>HTML</li>
+                <li>Domínio</li>
+                <li>jskask#@1234</li>
+                <li>1991</li>
+                <li>JavaScript, Java</li>
+                <li>O arquivo deve ter extensão .html</li>
+                <li>type</li>
+                <li>Java</li>
+            </ol>
+        </details>
         </section>
     </main>
     <footer></footer>
