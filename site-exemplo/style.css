@@ -42,3 +42,7 @@ input[id="email"] {border-radius: 9px; width: 30%; padding: 0.2rem;}
 input[type="text"] {background-color: #ffffff;}
 
 button {font-size: large; padding: 0.2rem; border-radius: 9px;}
+
+footer {background-color: #000000; padding: 0.8rem; text-align: center;}
+.paragrafo-footer { color: #ffffff; padding: 0.2rem; font-size: large;}
+footer a {text-decoration: none; color: #ff0000;}
