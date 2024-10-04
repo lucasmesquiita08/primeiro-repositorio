@@ -1,51 +1,19 @@
-# Meu primeiro repositorio
- estou aprendendo a progamar e esse será meu primeiro repositorio
+# Minha Jornada de Aprendizagem
+ Estou aprendendo a progamar e esse será meu primeiro repositorio
+ 
+ Aprendi Sobre __HTML__ e __CSS__ e Fiz um Pequeno __QUIZ de 8 perguntas__
 
- acabei de aprender a fazer alterações pelo site.
+ __Minha criação HTML__
+ ![foto html](https://github.com/user-attachments/assets/b099677f-9f36-4371-8ed9-fcd6c6fea86f)
 
-## Comecei a aprender a linguagem Markdown
-***
-__Negrito__
+ __Minha criação CSS__
+ ![css](https://github.com/user-attachments/assets/b35c2943-e093-40c3-8d13-a5f0f28b4abb)
 
-_Italico_
+__Agora irei aprender sobre JavaScript__
 
-__*Negrito e Italico*__
+![imagem javascript](https://github.com/user-attachments/assets/96c5bd74-ce33-4967-b15e-c002dc8ddf9a)
 
-~~Riscado~~
-
-__lista numerada__
-1. teste
-2. teste
-3. teste
-4. teste
-
-__Lista Demarcada__
-* teste
-* teste
-* teste
-* teste
-   * teste
-   * teste
-
-__Lista de Tarefas__
-- [x] aprender git e github
-- [x] criar o primeiro repositorio
-- [x] aprender markdown
-
-__Colocando uma imagem__
-![imagem de um leão](https://github.com/user-attachments/assets/1930717f-d80d-46e6-b29e-29400b5127e2)
-
-__Colocando link__
-[Acesse meu Github] (https://github.com/lucasmesquiita08)
-
-### Criando Tabelas
-Num | Nome | Nota
----|---|---
-1 | Lucas | 8,5
-2 | Joao | 7,0
-3 | DIego | 6,5
-
-Terminou a tabela
+__Até mais 🖐__
 
 
 
