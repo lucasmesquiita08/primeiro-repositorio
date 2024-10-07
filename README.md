@@ -15,6 +15,8 @@ __Agora irei aprender sobre JavaScript__
 
 __Até mais 🖐__
 
+Fiz um site para converter moedas, e breve usarei o javascript para fazer a função.
+![conversor de moedas](https://github.com/user-attachments/assets/fe136815-646b-4879-af67-a14cf61ad143)
 
 
 
